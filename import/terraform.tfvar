@@ -1,0 +1,1 @@
+terraform import azurerm_key_vault.kv //subscriptions/00b9c8ab-f7d4-4c4f-ac56-7e2b38ca92de/resourceGroups/CKRG/providers/Microsoft.KeyVault/vaults/ckvault11
